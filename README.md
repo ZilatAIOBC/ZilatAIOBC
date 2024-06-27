@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zilataiobc&label=Profile%20views&color=0e75b6&style=flat" alt="zilataiobc" /> </p>
 
+- 🔭 I’m currently working on **David Call**
+
+- 👯 I’m looking to collaborate on **AI Projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
