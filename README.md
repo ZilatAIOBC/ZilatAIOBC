@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **David Call**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 I’m looking to collaborate on **AI Projects** and **Web3 Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
