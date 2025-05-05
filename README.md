@@ -3,16 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zilataiobc&label=Profile%20views&color=0e75b6&style=flat" alt="zilataiobc" /> </p>
 
-- 🔭 I’m currently working on **David Call**
+- 🔭 I’m currently working on **I-DEO LAB**
 
 - 👯 I’m looking to collaborate on **AI Projects** and **Web3 Projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
 <h3 align="left">🚀 Tech Stack & Tools I Work With</h3>
 
 <!-- Frontend -->
