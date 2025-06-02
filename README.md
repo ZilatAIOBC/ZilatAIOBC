@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **I-DEO LAB**
 
-- 👯 I’m looking to collaborate on **AI Projects** and **Web3 Projects**
+- 👯 I’m looking to collaborate on **AI Projects** and **Web Projects**
 
 <h3 align="left">🚀 Tech Stack & Tools I Work With</h3
 
