@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects** and **Web3 Projects**
 
-<h3 align="left">🚀 Tech Stack & Tools I Work With</h3>
+<h3 align="left">🚀 Tech Stack & Tools I Work With</h3
 
 <!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
