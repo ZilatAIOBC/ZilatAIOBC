@@ -146,7 +146,7 @@
 
  <!-- ###### Some of my projects ##### -->
 
-<details> 
+ <!-- <details> 
  <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
   <p align="left">
@@ -163,7 +163,7 @@
  <p align="left">
   <a href="https://github.com/ZilatAIOBC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-</details>
+</details>-->
 
 <!-- ###### END OF Some of my projects  ##### -->
 
