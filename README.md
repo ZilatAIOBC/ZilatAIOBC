@@ -20,15 +20,15 @@
   <img src="https://komarev.com/ghpvc/?username=ZilatAIOBC&label=Visitors&color=0e75b6&style=flat" alt="ZilatAIOBC" /> <img src="https://img.shields.io/github/followers/ZilatAIOBC?label=Followers&style=flat&color=0e75b6" alt="ZilatAIOBC"/>
  <a href="https://github.com/ZilatAIOBC?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ZilatAIOBC"/></a>
- <a href="mailto:daniyalqureshi.cs@gmail.com">
+ <a href="mailto:zilataiobc@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
 
   <p align="center">
-<a href="https://github.com/ZilatAIOBC">
+<!-- <a href="https://github.com/ZilatAIOBC">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🎯%20Code%20Artisan;🌐%20Fullstack%20Explorer;🚀%20Flutter%20Enthusiast;💎%20Rails%20Maestro;🕒%204%2B%20Years%20of%20Code%20Journey;🔮%20Eager%20Tech%20Discoverer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-</a>
+</a> -->
 
 </p>
 
