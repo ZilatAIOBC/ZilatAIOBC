@@ -3,7 +3,7 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="Muhammad Zil Ur Rehman" alt="Muhammad Zil Ur Rehman" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Muhammad Zil Ur Rehman" alt="Muhammad Zil Ur Rehman" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad Zil Ur Rehman🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 <p align="center">
@@ -213,9 +213,9 @@
 </h4>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/daniyal-qureshi-cs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/217146/gmail.svg" width="35"/></a>
- <a href="https://rubygems.org/profiles/daniyal_qureshi" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349497/rubygems.svg" width="35" /></a>
+<!--  <a href="https://www.linkedin.com/in/daniyal-qureshi-cs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="35" /></a> -->
+<!--  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/217146/gmail.svg" width="35"/></a> -->
+<!--  <a href="https://rubygems.org/profiles/daniyal_qureshi" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349497/rubygems.svg" width="35" /></a> -->
 </p>
 
 
