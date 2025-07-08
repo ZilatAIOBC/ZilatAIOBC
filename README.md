@@ -2,36 +2,45 @@
 
 
 <!-- ###### HEAD ##### -->
-<div>
- <span>
-<p align="center">
-<a href="#"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
- <p align="center">
-  <a href="https://github.com/ZilatAIOBC/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
-  </p>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</div>
 
-  
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZilatAIOBC&label=Visitors&color=0e75b6&style=flat" alt="ZilatAIOBC" /> <img src="https://img.shields.io/github/followers/ZilatAIOBC?label=Followers&style=flat&color=0e75b6" alt="ZilatAIOBC"/>
- <a href="https://github.com/ZilatAIOBC?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ZilatAIOBC"/></a>
- <a href="mailto:zilataiobc@gmail.com">
+<table style="border: none;">
+<tr>
+<td width="60%" style="border: none;">
+
+<p align="center">
+  <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZilatAIOBC&label=Visitors&color=0e75b6&style=flat" alt="ZilatAIOBC" /> 
+  <img src="https://img.shields.io/github/followers/ZilatAIOBC?label=Followers&style=flat&color=0e75b6" alt="ZilatAIOBC"/>
+  <a href="https://github.com/ZilatAIOBC?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ZilatAIOBC"/>
+  </a>
+  <a href="mailto:zilataiobc@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
-  </p>
-
-  <p align="center">
-<a href="https://github.com/ZilatAIOBC">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Fullstack%20Developer;🎯%20Software%20Engineer;💎%20System%20Designer;🚀%20AI%20Enthusiast;🕒%204%2B%20Years%20of%20Code%20Journey;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-</a>
-
 </p>
-</span>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-</div>
+
+<p align="center">
+  <a href="https://github.com/ZilatAIOBC">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Fullstack%20Developer;🎯%20Software%20Engineer;💎%20System%20Designer;🚀%20AI%20Enthusiast;🕒%204%2B%20Years%20of%20Code%20Journey;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  </a>
+</p>
+
+</td>
+<td width="40%" style="border: none;">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="100%">
+
+</td>
+</tr>
+</table>
 <!-- ###### END OF HEAD ##### -->
 
 
