@@ -3,14 +3,13 @@
 
 <!-- ###### HEAD ##### -->
 
+
+
+<a href="http://www.github.com/ZilatAIOBC">
+<div width="60%">
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="60%" style="border: none; padding: 0; vertical-align: top;">
-
 <p align="center">
   <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
@@ -34,14 +33,11 @@
   </a>
 </p>
 
-</td>
-<td width="40%" style="border: none; padding: 0; vertical-align: top;">
+</div>
+</a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="100%">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="40%">
 
-</td>
-</tr>
-</table>
 <!-- ###### END OF HEAD ##### -->
 
 
