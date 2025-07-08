@@ -11,23 +11,23 @@
 <a href="#"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
  <p align="center">
-  <a href="https://github.com/Daniyal-Qureshi/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/Daniyal-Qureshi/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://github.com/Daniyal-Qureshi/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
   </p>
 
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniyal-Qureshi&label=Visitors&color=0e75b6&style=flat" alt="Daniyal-Qureshi" /> <img src="https://img.shields.io/github/followers/Daniyal-Qureshi?label=Followers&style=flat&color=0e75b6" alt="Daniyal-Qureshi"/>
- <a href="https://github.com/Daniyal-Qureshi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Daniyal-Qureshi"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ZilatAIOBC&label=Visitors&color=0e75b6&style=flat" alt="ZilatAIOBC" /> <img src="https://img.shields.io/github/followers/ZilatAIOBC?label=Followers&style=flat&color=0e75b6" alt="ZilatAIOBC"/>
+ <a href="https://github.com/ZilatAIOBC?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ZilatAIOBC"/></a>
  <a href="mailto:daniyalqureshi.cs@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
 
   <p align="center">
-<a href="https://github.com/Daniyal-Qureshi">
+<a href="https://github.com/ZilatAIOBC">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🎯%20Code%20Artisan;🌐%20Fullstack%20Explorer;🚀%20Flutter%20Enthusiast;💎%20Rails%20Maestro;🕒%204%2B%20Years%20of%20Code%20Journey;🔮%20Eager%20Tech%20Discoverer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 </a>
 
@@ -148,18 +148,18 @@
  <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
   <p align="left">
-  <a href="https://github.com/Daniyal-Qureshi/dicebear_avatar_gem">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Daniyal-Qureshi&repo=dicebear_avatar_gem&theme=react&bg_color=0D1117" alt="Dicebear"></a>
-  <a href="https://github.com/Daniyal-Qureshi/speech_emotion_detection_deployed_on_flask">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Daniyal-Qureshi&repo=speech_emotion_detection_deployed_on_flask&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/Daniyal-Qureshi/Medicine-Delivery-Flutter-3.1.3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Daniyal-Qureshi&repo=Medicine-Delivery-Flutter-3.1.3&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/Daniyal-Qureshi/Memory-Game-Android">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Daniyal-Qureshi&repo=Memory-Game-Android&theme=react&bg_color=0D1117" alt="QBasic"></a>
+  <a href="https://github.com/ZilatAIOBC/dicebear_avatar_gem">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ZilatAIOBC&repo=dicebear_avatar_gem&theme=react&bg_color=0D1117" alt="Dicebear"></a>
+  <a href="https://github.com/ZilatAIOBC/speech_emotion_detection_deployed_on_flask">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ZilatAIOBC&repo=speech_emotion_detection_deployed_on_flask&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+  <a href="https://github.com/ZilatAIOBC/Medicine-Delivery-Flutter-3.1.3">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ZilatAIOBC&repo=Medicine-Delivery-Flutter-3.1.3&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/ZilatAIOBC/Memory-Game-Android">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ZilatAIOBC&repo=Memory-Game-Android&theme=react&bg_color=0D1117" alt="QBasic"></a>
   </p>
 
  <p align="left">
-  <a href="https://github.com/Daniyal-Qureshi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ZilatAIOBC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
 
@@ -178,9 +178,9 @@
 
  
  <div align="center">
-<a href="http://www.github.com/Daniyal-Qureshi"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Daniyal-Qureshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Daniyal-Qureshi's GitHub stats" /></a>
-<a href="https://github.com/Daniyal-Qureshi"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal-Qureshi&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Daniyal-Qureshi"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniyal-Qureshi&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/ZilatAIOBC"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ZilatAIOBC&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ZilatAIOBC's GitHub stats" /></a>
+<a href="https://github.com/ZilatAIOBC"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZilatAIOBC&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ZilatAIOBC"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZilatAIOBC&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <!-- ###### END OF My Github Stats  ##### -->
@@ -213,7 +213,7 @@
 </h4>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/daniyal-qureshi-cs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="35" /></a>
+ <a href="https://www.linkedin.com/in/ZilatAIOBC-cs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="35" /></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/217146/gmail.svg" width="35"/></a>
  <a href="https://rubygems.org/profiles/daniyal_qureshi" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349497/rubygems.svg" width="35" /></a>
 </p>
