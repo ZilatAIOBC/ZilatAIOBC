@@ -7,7 +7,7 @@
 </div>
 
 <table style="border: none;">
-<tr>
+<tr style="border: none;">
 <td width="60%" style="border: none;">
 
 <p align="center">
