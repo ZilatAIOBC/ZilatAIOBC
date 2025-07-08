@@ -2,14 +2,14 @@
 
 
 <!-- ###### HEAD ##### -->
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</div>
+
 
 <table style="border: none;">
 <tr style="border: none;">
 <td width="60%" style="border: none;">
-
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</div>
 <p align="center">
   <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://github.com/ZilatAIOBC/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
