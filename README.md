@@ -45,6 +45,7 @@
 <!-- ###### END OF HEAD ##### -->
 
 
+<!-- ###### Open Source Contributions ##### -->
 
 <h4 align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30" align="center"> Open Source Contributions <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30" align="center">
@@ -69,11 +70,9 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
-
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
 <!-- ###### END OF Open Source Contributions ##### -->
+
+
 
 
 <!-- ###### Languages | Tools ##### -->
