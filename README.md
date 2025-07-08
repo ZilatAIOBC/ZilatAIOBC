@@ -27,7 +27,7 @@
 
   <p align="center">
 <a href="https://github.com/ZilatAIOBC">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Fullstack%20Enthusiast;🚀%20AI%20Enthusiast;💎%20System%20Designer;🎯%20Software%20Engineer;🕒%204%2B%20Years%20of%20Code%20Journey;🔮%20Eager%20Tech%20Discoverer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Fullstack%20Developer;🎯%20Software%20Engineer;💎%20System%20Designer;🚀%20AI%20Enthusiast;🕒%204%2B%20Years%20of%20Code%20Journey;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 </a>
 
 </p>
