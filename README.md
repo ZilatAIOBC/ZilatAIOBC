@@ -5,7 +5,7 @@
 
 
 
-<a href="http://www.github.com/ZilatAIOBC">
+<a href="http://www.github.com/ZilatAIOBC" width="60%">
 <div width="60%">
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
