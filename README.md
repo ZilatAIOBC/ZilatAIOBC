@@ -32,7 +32,6 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
 <!-- ###### END OF HEAD ##### -->
 
