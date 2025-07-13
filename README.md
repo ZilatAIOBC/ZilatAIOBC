@@ -150,17 +150,12 @@
  
  <div align="center">
 <a href="http://www.github.com/ZilatAIOBC"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ZilatAIOBC&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ZilatAIOBC's GitHub stats" /></a>
-<a href="https://github.com/ZilatAIOBC"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZilatAIOBC&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ZilatAIOBC"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZilatAIOBC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZilatAIOBC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <a href="http://www.github.com/ZilatAIOBC"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZilatAIOBC&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <!-- ###### END OF My Github Stats  ##### -->
-
-![](https://github-readme-stats.vercel.app/api?username=ZilatAIOBC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ZilatAIOBC&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZilatAIOBC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 <!-- ###### QUOTE OF THE DAY ##### -->
 
