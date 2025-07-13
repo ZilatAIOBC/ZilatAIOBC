@@ -13,7 +13,6 @@
  <p align="center">
   <a href="https://github.com/ZilatAIOBC/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://github.com/ZilatAIOBC/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
   </p>
 
   
