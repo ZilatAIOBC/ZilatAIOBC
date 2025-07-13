@@ -40,47 +40,7 @@
 <h4 align="center"><br>
   Languages | Tools 
  </h4>
-## 🚀 Skills & Technologies
-
-### 🛠️ Badges
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![GCP](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🎨 Icons (Legacy Style)
-
-<p align="left">
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
-  <code><img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/android-512.png" width="30" height="30" alt="Android" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="35"/></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="30" alt="mysql" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" height="30" alt="mongo" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="firebase" /></code>
-  <code><img src="https://www.svgrepo.com/show/448266/aws.svg" width="30" height="30" alt="AWS" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="30" height="30" alt="heroku" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="30" height="30" alt="gcp" /></code>
-  <code><img src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" width="30" height="30" alt="Android Studio" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30" alt="vs" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="30" height="30" alt="Linux" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
-  <code><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30" height="30" alt="github" /></code>
-  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="git" /></code>
-</p>
-
-<!-- <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 <code><img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/android-512.png" width="30" height="30" alt="Android" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" /></code>
@@ -98,7 +58,7 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
 <code><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30" height="30" alt="github" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="git" /></code> -->
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="git" /></code>
 
 
 
